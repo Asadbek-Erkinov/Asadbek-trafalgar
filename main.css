@@ -29,6 +29,10 @@
   margin-block: 0;
 }
 
+
+.article-img {
+  border-radius: 50%;
+}
 .navbar-item {
   margin-left: 40px;
   
