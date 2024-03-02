@@ -29,15 +29,19 @@
   margin-block: 0;
 }
 
-
+.healthy-link {
+  padding: 8px 16px;
+}
 .article-img {
   border-radius: 50%;
 }
 .navbar-item {
   margin-left: 40px;
-  
 }
 
+.frame-link{
+  padding: 8px 16px;
+}
 .navbar-link {
   color: #1F1534;
   text-decoration-line: none;
@@ -367,9 +371,12 @@
 
 .footer-list {
   list-style: none;
-
 }
 
+
+.site-article {
+  margin-inline: 70px;
+}
 .footer-list-item {
   margin-right: 75px;
 }
