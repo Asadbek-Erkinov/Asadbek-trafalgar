@@ -372,7 +372,10 @@
 .footer-list {
   list-style: none;
 }
-
+.frame-link {
+  /* display: inline; */
+  padding: 10px 20px;
+}
 
 .site-article {
   margin-inline: 70px;
